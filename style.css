@@ -166,7 +166,7 @@ img {
 
 header {
   display: flex;
-  background-color: #fff;
+  background-color: #162461;
   box-shadow: 0.5em 0.5em 0.75em rgba(0, 0, 0, 0.3),
     0.125em 0.125em 0.25em rgba(0, 0, 0, 0.15);
   position: sticky;
