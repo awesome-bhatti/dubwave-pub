@@ -194,6 +194,7 @@ section {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    color: white;
   }
   .nav-list-item {
     padding-right: 1em;
@@ -308,7 +309,7 @@ section {
 /* section key features */
 .section-features {
   background-color: #858080;
-  background-image: url(./img/app-in-use.jpg);
+  background-image: url(./img/main4.jpg);
   background-size: cover;
   background-blend-mode: multiply;
   color: #fff;
