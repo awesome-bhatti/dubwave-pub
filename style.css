@@ -261,9 +261,17 @@ section {
 }
 /* section why this app */
 
+.section-main {
+  background-color: #858080;
+  background-image: url(./img/main.jpg);
+  background-size: cover;
+  background-blend-mode: multiply;
+  color: #fff;
+}
+
 .section-why {
   background-color: #858080;
-  background-image: url(./img/scenic-mountain.jpg);
+  background-image: url(./img/main2.jpg);
   background-size: cover;
   background-blend-mode: multiply;
   color: #fff;
@@ -406,7 +414,7 @@ video {
 /* get product section */
 .section-get-product {
   background-color: #5e5d5d;
-  background-image: url(./img/car-sunrise.jpg);
+  background-image: url(./img/main3.jpg);
   background-size: cover;
   background-position: bottom;
   background-blend-mode: multiply;
